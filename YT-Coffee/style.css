@@ -169,4 +169,8 @@ button:hover{
     .left-section p{
         font-size: 15px;
     }
+
+    .right-section img{
+        height: 250px;
+    }
 }
